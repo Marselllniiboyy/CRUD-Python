@@ -1,0 +1,6 @@
+bikin program sistem dengan menggunakan list dan dictionary untuk menyimpan data. Program ini dapat menampilkan data, menambahkan data, menghapus
+data, dan mencari data. Program ini juga dapat menampilkan data berdasarkan kategori.
+contoh kayak data masasisswa, sldo, dan lain lain
+intinya crud
+save dalam dile.py
+nim.py  

@@ -1,0 +1,16 @@
+Cara memmakai prosedur
+
+prosedur artimatika(kondisi) // ini setelah prosedur menggunakan fungsi
+  if(kondisi = "minus"):
+    print (1-3)
+
+  if (kondisi = "plus"):
+    print (1+3)
+
+prosuder ini harus memiliki kondisi variabe, mau minus atau plus; 
+
+definisikan prosedur aritmatika, kedua pakai parameter
+
+
+setelah itu tinggal panggil
+aritmatika("minus")
